@@ -1,13 +1,5 @@
-<div style="display: flex; justify-content: ;">
-    <div style="display: flex; flex-direction: column;">
-        <img src='https://user-images.githubusercontent.com/111038061/215112700-01839842-61b3-483e-982c-15d179818faa.png' width='95%'></img>
-        <img src='https://user-images.githubusercontent.com/111038061/215112708-8e4742fc-9b6f-4eab-8e99-15ff6e636290.png' width='95%'></img>
-        <img src='https://user-images.githubusercontent.com/111038061/215112691-c2e4f1a6-30fb-4948-9906-57f6a1ae59f9.png' width='95%'></img>
-    </div>
-    <div>
-        <img src='https://user-images.githubusercontent.com/111038061/215112704-e8e066bd-8eda-44b8-94b1-e8d7c867037a.png' width='1000' height='100%'></img>
-    </div>
-</div>
+<img src='https://user-images.githubusercontent.com/111038061/215131128-38b21d1e-890d-4759-a7b7-546196d16649.jpg' width='95%'></img>
+
 
   - 주제 : 스낵게임 프로젝트
 
